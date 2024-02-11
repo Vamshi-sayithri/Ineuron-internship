@@ -33,9 +33,9 @@ MS Power BI
 
 ## Conclusion 
 
-- 54% People are suffering from heart disease
+-54% People are suffering from heart disease
   
-- Middle age men  at the age of (40-55) and females are more in 55 to 65 years are more effected by heart disease.
+-Middle age men  at the age of (40-55) and females are more in 55 to 65 years are more effected by heart disease.
                    
 -Males are more prone to heart disease.
 
