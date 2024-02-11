@@ -52,4 +52,4 @@ MS Power BI
 -ST depression mostly increases between the age group of 30-40.
 
 ## Project demo video link
-https://drive.google.com/file/d/1Q1wypLnGjH0rvaKGkOV9lmS-zeMMlN6i/view?usp=sharing
+https://youtu.be/V-r0Tp8LPm0
