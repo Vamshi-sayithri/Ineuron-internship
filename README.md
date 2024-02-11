@@ -33,12 +33,20 @@ MS Power BI
 
 ## Conclusion 
 
-- 54% People are suffering from heart disease   
-- Middle age men  at the age of (40-55) and females are more in 55 to 65 years are more effected by heart disease.                   
+- 54% People are suffering from heart disease
+  
+- Middle age men  at the age of (40-55) and females are more in 55 to 65 years are more effected by heart disease.
+                   
 -Males are more prone to heart disease.
+
 -Elderly Aged People (>55) are more prone to heart disease
+
 -People having asymptomatic chest pain  have a higher chance of heart disease.
+
 -High number of Blood pressure and cholesterol level in people having heart disease.
+
 -Blood pressure increases between age of 50 to 60 and somehow continue till 80.
+
 -Maximum heart rate Increasing in the age group of 50-74.
+
 -ST depression mostly increases between the age group of 30-40.
